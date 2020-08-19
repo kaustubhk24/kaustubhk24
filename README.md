@@ -4,7 +4,9 @@
 
 Owner at
 
-![JustInClicks.com](https://icons.justinclicks.com/logos/jc-small.jpg)
+
+[![JustInClicks.com](https://icons.justinclicks.com/logos/jc-full.png)](http://justinclicks.com)
+
 
 ![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhk24&count_private=true&show_icons=true)
 
