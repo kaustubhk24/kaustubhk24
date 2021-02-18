@@ -20,9 +20,7 @@
 <a href="https://kaustubh.codes/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=kaustubhk24&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
   
   <br>
-  # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaustubhk24&theme=chartreuse-dark)](https://github.com/Ayush32/github-readme-streak-stats)
 
-<br>
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhk24&layout=compact&theme=chartreuse-dark" />
 
