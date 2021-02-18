@@ -1,3 +1,4 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
 ### Hi there, I'm [Kaustubh Kulkarni!](https://kaustubh.codes/) 👋.  ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
@@ -6,13 +7,18 @@
 - Information Technology student.
 - 💻 ***#SelfTaught*** Developer.
 - 📱 360 App developer.
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - Proud 🇮🇳.
 
 
 ![Profile Views](https://gpvc.arturio.dev/kaustubhk24)
 
 
-![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhk24&count_private=true&show_icons=true)
+
+
+<a href="https://kaustubh.codes/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=kaustubhk24&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
+  <br>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhk24&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
 ## 🔗 Know more about me 
