@@ -1,4 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img alt="GIF" height= 200 src="https://user-images.githubusercontent.com/44522024/95550376-68e7f880-0a26-11eb-8284-3ae06236dba1.gif" />
 
 
 ### Hi there, I'm [Kaustubh Kulkarni!](https://kaustubh.codes/) 👋.  ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
@@ -17,8 +18,13 @@
 
 
 <a href="https://kaustubh.codes/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=kaustubhk24&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
+  
   <br>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhk24&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+  # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaustubhk24&theme=chartreuse-dark)](https://github.com/Ayush32/github-readme-streak-stats)
+
+<br>
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhk24&layout=compact&theme=chartreuse-dark" />
 
 
 ## 🔗 Know more about me 
