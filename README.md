@@ -4,16 +4,20 @@
 <ul>
 <li>🌱 I’m currently learning ...</li>
 <li>Information Technology student.</li>
-<li>💻 <strong><em>#SelfTaught</em></strong> Developer.</li>
-<li>📱 360 App developer.</li>
 <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
 </ul>
 <p><img src="https://gpvc.arturio.dev/kaustubhk24" alt="Profile Views"></p>
 
-<h2 id="-know-more-about-me">🔗 Know more about me</h2>
-<p><a href="https://kaustubh.codes/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"></a>
-<a href="mailto:kaustubh@outlook.in"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&amp;logo=gmail" alt="Mail"></a>
-<a href="https://twitter.com/kaustubhk24"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&amp;logo=twitter" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/kaustubhk24/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&amp;logo=Linkedin" alt="Linkedin"></a>
-<a href="https://play.google.com/store/apps/developer?id=JustInClicks.com"><img src="https://img.shields.io/badge/-Google%20Play-black?style=for-the-badge&amp;logo=google-play" alt="Google Play"></a></p>
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+ #### 📫 How to reach me:   
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/kaustubhk24)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/kaustubhk24/)
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/realkaustubh/)
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/kaustubhk24)
+  <a href="mailto:kaustubh@outlook.in"> <img src="https://img.icons8.com/fluent/48/000000/apple-mail.png" width="3.5%"/> </a>
+
+
+
 <h4 id="thank-you-">Thank You-🙏🏼</h4>
