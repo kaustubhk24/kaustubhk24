@@ -1,5 +1,4 @@
 <p><h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<img style="border-radius: 50%!important;" alt="GIF" height= 200 src="https://avatars.githubusercontent.com/u/57136442?v=4" /></p>
 <h3 id="hi-there-i-m-kaustubh-kulkarni-https-kaustubh-codes-https-pronoun-cyou-x-y-subject-he-object-him-height-20-">Hi there, I&#39;m <a href="https://kaustubh.codes/">Kaustubh Kulkarni!</a> 👋.  <img src="https://pronoun.cyou/x/y?subject=He&amp;object=Him&amp;height=20" alt=""></h3>
 <ul>
 <li>🌱 I’m currently learning ...</li>
